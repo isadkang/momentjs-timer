@@ -1,6 +1,6 @@
 # Dokumentasi Moment.js by IrsyadNat
 
-![Moment.js Logo](https://momentjs.com/downloads/moment-logo.png)
+![Moment.js Logo]([https://momentjs.com/downloads/moment-logo.png](https://avatars.githubusercontent.com/u/4129662?s=200&v=4))
 
 Moment.js adalah sebuah pustaka JavaScript yang kuat untuk manipulasi waktu dan tanggal. Pustaka ini memudahkan pengolahan tanggal dan waktu dalam berbagai format.
 
